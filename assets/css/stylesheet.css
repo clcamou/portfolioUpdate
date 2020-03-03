@@ -185,6 +185,8 @@ body {
   .card {
     text-align: center;
   }
+
+  
   .card-2 {
     float: right;
   }
@@ -192,3 +194,13 @@ body {
   .card-title-1 {
     float: left;
   }
+
+  .card-title {
+    text-align: center;
+  }
+
+ #github {
+   width: 100%;
+ }
+
+ 
