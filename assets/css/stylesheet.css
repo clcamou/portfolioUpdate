@@ -20,9 +20,6 @@ body {
     margin: 0 auto -105px;
   }
   
- 
-  
-  
   #logo:hover,
   input[type=submit]:hover {
     background: #dd78e0;
@@ -92,7 +89,7 @@ body {
   
   #logo {
     float: left;
-    width: 250px;
+    width: 50%;
     height: 90px;
     font-family: Georgia, Times, "Times New Roman", serif;
     font-size: 30px;
@@ -190,4 +187,8 @@ body {
   }
   .card-2 {
     float: right;
+  }
+
+  .card-title-1 {
+    float: left;
   }
