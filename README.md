@@ -12,7 +12,7 @@ Luckily for users, they do not need to install any packages in order to use this
 3. Images and links created by the author. 
 
 # Demo 
-1. Create Function [Demo of Creating Information](demo/demo.gif)
+1. Create Function [Demo](demo/demo.gif)
 
 # Author 
 Christine Camou
